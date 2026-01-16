@@ -96,7 +96,7 @@ Athens University of Economics and Business
 
 ---
 
-## 📖 Reference
+## 📖 References
 
 [1] Chong Chen, Weizhi Ma, Min Zhang, Zhaowei Wang,  
 Xiuqiang He, Chenyang Wang, Yiqun Liu, and Shaoping Ma,  
